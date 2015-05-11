@@ -1,10 +1,10 @@
 package se.patrikbergman.java.logging;
 
-public class Band {
+class Band {
 	private final String name;
 	private final String descriptions;
 
-	public Band(String name, String descriptions) {
+	Band(String name, String descriptions) {
 		this.name = name;
 		this.descriptions = descriptions;
 	}
