@@ -16,4 +16,9 @@ public class Band {
 	public String getDescriptions() {
 		return descriptions;
 	}
+
+	@Override
+	public String toString() {
+		return this.getName();
+	}
 }
