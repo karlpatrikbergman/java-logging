@@ -1,4 +1,4 @@
-package se.patrikbergman.java.logging;
+package se.patrikbergman.java.logging.slf4j.simple;
 
 import org.junit.Test;
 

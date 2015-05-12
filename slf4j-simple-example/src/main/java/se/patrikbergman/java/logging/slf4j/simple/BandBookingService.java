@@ -1,4 +1,4 @@
-package se.patrikbergman.java.logging;
+package se.patrikbergman.java.logging.slf4j.simple;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
