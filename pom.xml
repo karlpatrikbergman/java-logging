@@ -19,6 +19,8 @@
 
     <modules>
         <module>slf4j-simple-example</module>
+        <module>logback-example</module>
+        <module>slf4j-lombok-example</module>
     </modules>
 
     <dependencyManagement>
